@@ -472,9 +472,9 @@ button.white {
 
 #banner3 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
-    padding: 0 80px;
+    padding: 0 46px;
 }
 
 
